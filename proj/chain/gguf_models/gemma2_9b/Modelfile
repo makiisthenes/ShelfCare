@@ -1,0 +1,5 @@
+# https://github.com/ollama/ollama/blob/main/docs/modelfile.md
+FROM ./gemma-2-9B-it-function-calling-Q6_K.gguf
+
+# ollama create gemma2-ft2-structured -f ./Modelfile
+# ollama run gemma2-ft2-structured

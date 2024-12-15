@@ -1,0 +1,5 @@
+# https://github.com/ollama/ollama/blob/main/docs/modelfile.md
+FROM ./unsloth.Q8_0.gguf
+
+# ollama create gemma2-ft2 -f ./Modelfile
+# ollama run gemma2-ft
